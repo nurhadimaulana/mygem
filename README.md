@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1. This is our first custom gem
+2. Every steps is very important to learn
 
 ## Contributing
 
